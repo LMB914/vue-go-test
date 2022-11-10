@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bip.iml" filepath="$PROJECT_DIR$/.idea/bip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vue-go-test.iml" filepath="$PROJECT_DIR$/.idea/vue-go-test.iml" />
     </modules>
   </component>
 </project>
