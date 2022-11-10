@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTFF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>index</title>
+</head>
+<body>
+
+{{ range $node := .nodes }}
+<p>{{ $node.NodeIp }}   {{ $node.NodePort }} {{ $node.NodeUser }} {{ $node.NodePassword }} {{ $node.NodeStatus }} </p>
+{{ end }}
+</body>
+</html>

@@ -1,0 +1,6 @@
+app:
+  jdbc_ip: 192.168.31.11
+  jdbc_port: 3306
+  jdbc_username: premises
+  jdbc_password: 1Hn22TOHWS6Q=
+  jdbc_database: test
